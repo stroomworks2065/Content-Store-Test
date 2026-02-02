@@ -37,7 +37,7 @@ contentPacks:
     licenseUrl: https://raw.githubusercontent.com/gchq/stroom-content/refs/heads/master/LICENCE.txt
 
     # Where this will be installed in Stroom
-    stroomPath: /System
+    stroomPath: /
 
     # Name of the Git Repo item to create. Defaults to the uiName.
     gitRepoName: Generated Rules
@@ -55,7 +55,7 @@ contentPacks:
     gitBranch: master
 
     # Path within repository
-    gitPath: StroomConfig/Generated_Rules.Folder.f1a621f4-7515-4f82-9dae-50bfc00af946
+    gitPath: StroomConfig/Generated_Rules.Folder.28860f43-0f82-4b0c-952a-d46d1017c75f
 
     # Hash of commit to pull
     # gitCommit: 0c6da31bc3d1d2d87be3d681c859b9a015be4afb
